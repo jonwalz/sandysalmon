@@ -1,0 +1,601 @@
+html {
+  margin: 0;
+}
+
+body {
+  background: #DDCDB7 url('../img/bed-log.jpg');
+  background-color: #DDCDB7;
+  margin: 0;
+  margin-bottom: 170px;
+  padding: 0;
+  font-family: 'PT Serif', serif;
+  font-size: 16px;
+}
+
+body a {
+  text-decoration: none;
+  font-family: 'PT Serif', serif;
+}
+img {
+  width: 100%;
+}
+
+
+/************ Log Borders ************/
+
+
+
+
+.logContainer-left {
+  top: 0;
+  float: left;
+  left: 0;
+  position: fixed;
+  overflow: hidden;
+  display: block;
+}
+
+.logContainer-right {
+  margin: 0;
+  top: 0;
+  right: 0;
+  float: right;
+  position: fixed;
+  overflow: hidden;
+  display: block;
+}
+
+
+
+/********** Content *********/
+
+address {
+  width: 300px;
+  margin: 0 auto;
+}
+address > a {
+  color: #856037;
+}
+
+address > a:visited {
+  color: #856037;
+}
+#emailLink > a,
+#emailLink > a:visited {
+ color: #856037;
+}
+.areaatt a:link,
+.areaatt a:visited
+{
+  color: #432f18;
+}
+
+.mhImg {
+  max-height: 520px;
+}
+.mhImg2 {
+  max-height: 400px;
+}
+.container {
+  margin: 0 auto;
+}
+#hideaway {
+  font-size: 16px;
+}
+.fb-like {
+  height: 30px;
+}
+
+.widSSPData img {
+  width: inherit !important;
+}
+
+#mtnbike {
+  line-height: .4em;
+
+}
+#mtnbike li {
+  list-style-type: disc;
+}
+#mtnbike li a {
+  font-size: 16px;
+
+}
+#breakfast {
+  width: 50%;
+}
+
+#bfpic {
+  width: 60%;
+  position: relative;
+}
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+.block1 a:link,
+a:visited {
+  color: #7791BF;
+}
+.content-container {
+  margin: 0 82px;
+}
+.cal {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+}
+#calheight {
+  height: 300px;
+}
+
+ /*       Slider1      */
+
+#slider {
+  max-height: 400px;
+}
+
+.style-container {
+  width: 55%;
+  margin: 0 auto;
+}
+
+.slider1 img {
+  /*width: 100%;*/
+  max-height: 400px;
+}
+
+.welcome {
+  font-family: 'Parisienne', cursive;
+  font-size: 5em;
+  color: rgb(128, 0, 0);
+  text-align: center;
+  padding: 0;
+}
+.guestHead {
+  font-family: 'Parisienne', cursive;
+  font-size: 4em;
+  color: rgb(128, 0, 0);
+  text-align: center;
+  padding: 10px;
+}
+.guroom {
+ border-bottom: 1px solid rgba(10,10,10,.2);
+ margin-bottom: 40px;
+ padding-bottom: 60px;
+}
+
+.landingText {
+  width: 70%;
+  margin: 2% auto;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.26);
+  padding: 2%;
+
+}
+
+
+.box {
+  font-size: 16px;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 0 20px 0;
+
+}
+.box2 {
+  background-image: url("../img/optimized/treesWeb.jpg");
+  background-size: cover;
+  background-position: 20% 100%;
+  font-size: 16px;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+#door {
+  width: 70%;
+  max-width: 500px;
+}
+.roomwrap {
+  text-align: center;
+  margin: 0 auto;
+}
+.roomwrap a:link {
+  color: white;
+}
+.roomwrap a:visited {
+  color: white;
+}
+.roomimg {
+  max-width: 640px;
+}
+
+.actionButton {
+  margin: 0 auto;
+  width: 100px;
+  background-color: rgb(0, 51, 0);
+  padding: 7px 20px;
+  border-radius: 40%;
+  color: white;
+}
+
+.actionButton2 {
+  margin: 0 auto;
+  margin-bottom: 15px;
+  width: 200px;
+  background-color: rgb(0, 51, 0);
+  padding: 7px 20px;
+  border-radius: 5%;
+  color: white;
+}
+
+.actionButton2:hover {
+  background-color: rgb(0, 80, 0);
+}
+
+.br {
+  display: block;
+
+}
+
+.addressClass {
+    margin: 0 auto;
+    display: block;
+}
+/******************  Social Icons   **************/
+
+
+
+
+
+#face {
+
+  text-align: center;
+  margin: 30px auto;
+}
+#faceicon {
+  width: 30px;
+}
+
+.socialIcons {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+#tripad {
+  float: left;
+  display: block !important;
+}
+#breakfast {
+  float: right;
+  position: relative;
+}
+
+
+
+
+/******************  Map   **************/
+
+
+
+
+
+
+#mapContain {
+  padding-top: 20px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
+
+
+/********  Bottom Navbar  *******/
+
+
+
+
+
+
+#bottom-nav {
+  text-align: center;
+  background-color: rgb(0, 51, 0);
+  color: white;
+  margin: 0 auto;
+  padding: 10px 0;
+  z-index: 5000;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+#bottom-nav ul{
+
+  list-style: none;
+  padding: 0;
+}
+
+#bottom-nav li{
+  display: inline;
+  padding: 10px;
+}
+
+#bottom-nav li a{
+  padding: 10px;
+  line-height: 2em;
+}
+
+#bottom-nav li a:link {
+  color: white;
+}
+#bottom-nav li a:visited {
+  color: white;
+}
+
+#nav-box {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px !important;
+}
+
+.block1 {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  font-size: 2.5em;
+  margin: 0 auto;
+}
+.phone {
+ font-family: 'Cinzel', serif;
+  text-align: center;
+  font-size: 2em;
+  color: #856037;
+  margin: 0 auto 10px auto;
+}
+
+.phone a:link,
+a:visited {
+  color: #856037;
+}
+
+.mobile-box {
+  display: none;
+  width: 100%;
+  text-align: center;
+  font-size: 1em;
+  background-color: rgb(0, 51, 0);
+  padding: 20px 0;
+}
+.mobile-icons {
+  margin: 0 10%;
+  max-width: 20%;
+    }
+.imgResponse {
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
+}
+.imgResponse img {
+
+  width: 100%;
+}
+#navTower {
+  display: none;
+  width: 100%;
+}
+
+
+
+a:link {
+  color: #ccdbea;
+}
+a:visited {
+  color: #ccdbea;
+}
+.textPush {
+  margin: 10px auto;
+}
+
+.bottomBorder {
+  border-bottom: 1px solid rgba(10,10,10,.3);
+  padding-bottom: 20px;
+}
+
+.contact-container {
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#paNma {
+  width: 300px;
+}
+
+.contactFont {
+  font-size: 20px;
+  line-height: 1.5;
+}
+.contactFont a {
+  color: #236675;
+}
+/******* Clear Fix *******/
+
+
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+@media screen
+  and (min-resolution: 2dppx){
+
+    body {
+      font-size: 20px;
+    }
+
+    .welcome {
+      font-size: 5em;
+      border-bottom: 1px solid #000;
+      padding: 0;
+    }
+    .guestHead {
+      font-size: 4em;
+      border-bottom: 1px solid #000;
+      padding: 0;
+    }
+    .logContainer-left {
+      display: none;
+    }
+
+    .logContainer-right {
+      display: none;
+    }
+
+    .content-container {
+      margin: 10px auto;
+
+    }
+
+    .style-container {
+      width: 90%;
+      margin: 0 auto;
+    }
+
+    iframe {
+      height: 80vh;
+    }
+    #faceicon {
+      width: 40px;
+  }
+  .contactFont {
+      font-size: 14px;
+      line-height: 1.5;
+    }
+  #bottom-nav {
+     display: none;
+     }
+  #navTower {
+     display: block;
+     background-color: rgb(0, 51, 0);
+
+     }
+  #navTower ul {
+     list-style-type: none;
+     display: inline;
+
+     }
+  #navTower ul li {
+     margin: 30px 0;
+     font-size: 16px !important;
+     }
+}
+
+@media only screen
+  and (max-width : 767px) {
+
+    body {
+      font-size: 12px;
+      margin-bottom: 0;
+    }
+    .logContainer-left {
+      display: none;
+    }
+
+    .logContainer-right {
+      display: none;
+    }
+    .roomwrap {
+      padding: 0 20px;
+    }
+    .content-container {
+      margin: 0 auto;
+      }
+    .imgResponse {
+      width: 100%;
+    }
+    #door {
+      width: 100%;
+    }
+    .style-container {
+      width: 100%;
+    }
+   #bottom-nav {
+      display: none;
+    }
+    .mobile-box {
+      display: block;
+      width: 100%;
+      text-align: center;
+      font-size: 1em;
+      background-color: rgb(0, 51, 0);
+      padding: 5px 0;
+    }
+      .mobile-icons {
+      margin: 0 10%;
+      max-width: 20%;
+    }
+    .mobile-icons a {
+      margin: 0 auto;
+      text-align: center;
+    }
+    #tripad {
+    float: none;
+    display: none;
+
+    }
+    .box {
+      width: 100%;
+    }
+    #bfpic {
+    width: 100%;
+    }
+    #CDSWIDSSP {
+      width: 100% !important;
+    }
+
+    #navTower {
+    display: block;
+    background-color: rgb(0, 51, 0);
+
+    }
+    #navTower ul {
+    list-style-type: none;
+    display: inline;
+
+    }
+    #navTower ul li {
+    margin: 30px 0;
+    font-size: 16px !important;
+    }
+    .area {
+      padding: 20px;
+    }
+    .box2 {
+      background-image: none;
+    }
+    .cal {
+      width: 100%;
+    }
+    .contactFont {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+}
